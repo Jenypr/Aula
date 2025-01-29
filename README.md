@@ -1,4 +1,4 @@
-# Aula
+# Bingo
 import random
 
 def gerar_cartela(modalidade):
